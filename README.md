@@ -1,7 +1,7 @@
 # Calculator-in-socket-programing
 
-## First, we create and write client-side socket code. In client socket program must know two information
-
+## Client
+First, we create and write client-side socket code. In client socket program must know two information
 -->IP Address of Server and,
 
 
